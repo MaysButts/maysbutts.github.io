@@ -1,0 +1,57 @@
+main.css
+
+body {
+	background-color:purple;
+}
+
+#linksmays{text-align: center;}
+.maysh1{text-shadow:2px 2px 5px white;}
+
+a:link, a:visited {
+  background-color: #153466;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+a:hover, a:active {
+  background-color: lightgrey;
+}
+.para{ width: 1150px;
+ height:662px;
+ border: solid 20px black;
+ margin: 60px auto;
+ border-radius: 0%;
+ background-color:lightgrey;text-shadow: 2px 2px 5px black;}
+
+
+#paragreg{width: 1150px;
+ height: 484px;
+ border: solid 20px black;
+ margin: 60px auto;
+ border-radius: 0%;
+ background-color: beige;text-shadow: 2px 2px 5px blue;}
+ .gregh1{text-shadow: blue;}
+
+#Leigh{background-color:#33476b;
+	color:rgb(0, 161, 197);}
+ #Leigh {width: 1150px;
+ height:605px; 
+ border: solid 20px black;
+ margin: 60px auto;
+ border-radius: 0%;
+ background-color:grey;text-shadow:2px 2px 5px black;}
+.leighh1{text-shadow:2px 2px 5px black;}
+
+#Amir{
+background-color:rgb(65, 132, 250);color: white;
+width: 1150px;
+ height:510px;
+ border: solid 20px black;
+ margin: 60px auto;
+ border-radius: 0%;
+ background-color:navy;text-shadow: 2px 2px 5px black;}	
+

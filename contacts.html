@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Index</title>
+	<link rel="stylesheet" type="text/css" href="Contacts.css">
+	</head>
+	<body style="background: rgb(65,73,161);
+background: radial-gradient(circle, rgba(65,73,161,1) 38%, rgba(221,148,15,1) 72%);">
+		<body style="background-color: orange">
+		<nav>
+			<div id="linkscontacts">
+			<a href="index.html">Home</a> 
+			<a href="about-me.html">About-Us</a>
+			<a href="projects.html">Projects</a>
+			<a href="contacts.html">Contacts</a>
+			</div>
+		</nav>
+		<br>
+		<br>
+		<br>
+		<div class="container">
+  <form action="action_page.php">
+
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    <label for="country">Country</label>
+    <select id="country" name="country">
+      <option value="australia">Australia</option>
+      <option value="canada">Canada</option>
+      <option value="usa">USA</option>
+    </select>
+
+    <label for="subject">Subject (Leave contact information ie. email)</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+
+  </form>
+</div>  
+	</body>
+	</html>

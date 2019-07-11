@@ -1,0 +1,28 @@
+
+#linkshome{text-align: center;}
+a:link, a:visited {
+  background-color: #153466;
+  color: white;
+  padding: 14px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+a:hover, a:active {
+  background-color: lightgrey;
+}
+
+.img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#para2{width: 1150px;
+ height:90px;
+ border: solid 20px black;
+ margin: 60px auto;
+ border-radius: 0%;
+ background-color:lightgrey;text-shadow: 2px 2px 5px black;}
