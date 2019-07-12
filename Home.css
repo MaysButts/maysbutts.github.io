@@ -1,5 +1,6 @@
 
 #linkshome{text-align: center;}
+
 a:link, a:visited {
   background-color: #153466;
   color: white;
@@ -21,7 +22,7 @@ a:hover, a:active {
 }
 
 #para2{width: 1150px;
- height:90px;
+ height:250px;
  border: solid 20px black;
  margin: 60px auto;
  border-radius: 0%;
