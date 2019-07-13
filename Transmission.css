@@ -1,0 +1,23 @@
+#linksproject{text-align: center;}
+
+a:link, a:visited {
+  background-color: #153466;
+  color: white;
+  padding: 14px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+a:hover, a:active {
+  background-color: lightgrey;
+}
+
+h1{text-shadow:2px 2px 5px white;font-size: 50px; text-decoration:underline;}
+
+p{color: white; text-decoration: underline;}
+
+#p1{color: white;}
+
+h3{text-decoration: underline; color:blue;}
